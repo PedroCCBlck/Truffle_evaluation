@@ -25,3 +25,15 @@ Testeo de las funciones:
 #Ejecutando el front desde el terminal
 Ejecutando el front desde el terminal:
 ![alt text](https://github.com/PedroCCBlck/Truffle_evaluation/blob/master/ejecutando%20el%20front.png "Ejecutando el front desde el terminal")
+
+#Conexión local (dirección del host), sincronización de bloques y número de bloque
+Conexión local (dirección del host), sincronización de bloques y número de bloque:
+![alt text](https://github.com/PedroCCBlck/Truffle_evaluation/blob/master/Conexi%C3%B3n%20local.png "Conexión local (dirección del host), sincronización de bloques y número de bloque")
+
+#Balance y address d ela cuenta 3
+Balance y address de la cuenta 3:
+![alt text](https://github.com/PedroCCBlck/Truffle_evaluation/blob/master/cuenta%203.png "Balance y address de la cuenta 3")
+
+#Precio gas
+Precio gas:
+![alt text](https://github.com/PedroCCBlck/Truffle_evaluation/blob/master/Precio%20gas.png "Precio gas")
