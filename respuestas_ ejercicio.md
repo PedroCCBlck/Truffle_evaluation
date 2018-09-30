@@ -11,4 +11,6 @@ Compilando y migrando:
 [Programa migration.sol](https://github.com/PedroCCBlck/Truffle_evaluation/blob/master/Migrations.sol)
 [Programa del deploy](https://github.com/PedroCCBlck/Truffle_evaluation/blob/master/2_deploy_contracts.js)
 
-
+#Pantallazo de Ganache
+Pantallazo de Ganache: 
+![alt text](https://github.com/PedroCCBlck/Truffle_evaluation/blob/master/Pantallazo%20de%20Ganache.png "Pantallazo de Ganache")
