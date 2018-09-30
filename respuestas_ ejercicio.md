@@ -14,3 +14,14 @@ Compilando y migrando:
 #Pantallazo de Ganache
 Pantallazo de Ganache: 
 ![alt text](https://github.com/PedroCCBlck/Truffle_evaluation/blob/master/Pantallazo%20de%20Ganache.png "Pantallazo de Ganache")
+
+#Testeo de las funciones
+Testeo de las funciones:
+![alt text](https://github.com/PedroCCBlck/Truffle_evaluation/blob/master/Testeo%20de%20las%20funciones.png "Testeo de las funciones")
+
+#programa para interacción con la API
+[Programa app.js](https://github.com/PedroCCBlck/Truffle_evaluation/blob/master/app.js)
+
+#Ejecutando el front desde el terminal
+Ejecutando el front desde el terminal:
+![alt text](https://github.com/PedroCCBlck/Truffle_evaluation/blob/master/ejecutando%20el%20front.png "Ejecutando el front desde el terminal")
